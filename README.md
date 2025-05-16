@@ -82,9 +82,7 @@ Run:
 
 ## Challenges instructions
 
-- [Clocks of Tempora](./Challenge-1.md) 
-- [The Scrolls of Eldoria](./Challenge-2.md)
-- [API Development and CRUD Operations](./Challenge-3.md)
+- [Challenges](./GitHub Copilot Codathon Event Guide.pdf) 
 
 ## Quick Links 
 
