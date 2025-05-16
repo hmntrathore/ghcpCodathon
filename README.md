@@ -82,7 +82,7 @@ Run:
 
 ## Challenges instructions
 
-- [Challenges](./GitHub Copilot Codathon Event Guide.pdf) 
+- [Challenges](./Challenges.pdf) 
 
 ## Quick Links 
 
